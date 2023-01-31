@@ -8,5 +8,5 @@ The Movie App was bootstrapped with [Create React App](https://github.com/facebo
 ## Refusing to merge unrelated histories
 The “fatal: refusing to merge unrelated histories” Git error occurs when two unrelated projects are merged (i.e., projects that are not aware of each other’s existence and have mismatching commit histories).
 ```bash
-git pull origin master --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories
 ```
