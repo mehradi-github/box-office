@@ -9,6 +9,12 @@ The Movie App was bootstrapped with [Create React App](https://github.com/facebo
 ## Installing Requirements
 Learn more: [Install ESLint, Prettier, ESLint Plugin for Testing Library, ESLint Plugin for Jest DOM](https://github.com/mehradi-github/jest-rtl/)
 
+ESLint Plugin for Testing Library
+[https://github.com/testing-library/eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library)
+
+ESLint Plugin for Jest DOM
+[https://github.com/testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+
 ```
 npm i --save react-query axios react-icons react-router-dom
 ```
