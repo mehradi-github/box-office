@@ -3,7 +3,11 @@
 The Movie App was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
 - [Box Office](#box-office)
+  - [Installing Requirements](#installing-requirements)
   - [Refusing to merge unrelated histories](#refusing-to-merge-unrelated-histories)
+
+## Installing Requirements
+Learn more: [Install ESLint, Prettier, ESLint Plugin for Testing Library, ESLint Plugin for Jest DOM](https://github.com/mehradi-github/jest-rtl/)
 
 ```
 npm i --save react-query axios react-icons react-router-dom
