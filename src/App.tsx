@@ -10,14 +10,14 @@ import Favorites from './pages/Favorites';
 
 function App() {
   return (
-    <div className='App'>
+    <div className="App">
       <h2>Movie App</h2>
       <BrowserRouter>
-      <Routes>
-        <Route path='/' element={<Home/>}/>
-        <Route path='/movie/:id' element={<Movie/>}/>
-        <Route path='/Favorites' element={<Favorites/>}/>
-      </Routes>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/movie/:id" element={<Movie />} />
+          <Route path="/Favorites" element={<Favorites />} />
+        </Routes>
       </BrowserRouter>
     </div>
     // <div className="App">
